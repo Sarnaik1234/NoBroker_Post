@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="53.783" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="To Post your Property on nobroker site" name="User Book Free Home Inspection for home renovation. - Example #1.1" time="53.391">
+<system-out><![CDATA[
+Given User is logged in.....................................................passed
+When User clicks on menu tab................................................passed
+And User clciks on painting and cleaning option.............................passed
+And User clicks on home renovation..........................................passed
+And User enter Apurva Sarnaik and 8080191093................................passed
+And User selects city.......................................................passed
+And User clicks on Get Free Qoute...........................................passed
+Then User recieves a confirmation message...................................passed
+]]></system-out>
+</testcase>
+</testsuite>
